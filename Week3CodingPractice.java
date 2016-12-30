@@ -46,5 +46,6 @@ public class Week3CodingPractice {
 	}
 }
 /*
+ * Answer: 5b96aece304a1422224f9a41b228416028f9ba26b0d1058f400200f06a589949
  * reference: https://www.mkyong.com/java/java-sha-hashing-example/
  */
